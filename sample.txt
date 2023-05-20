@@ -1,1 +1,2 @@
 adding a new file in the directory
+adding a new line to smple file
